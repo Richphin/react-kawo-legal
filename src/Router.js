@@ -12,7 +12,7 @@ function Router() {
             <BrowserRouter>
                 {/* <Navbar/> */}
                 <Switch>
-                    <Route exact path="/Home" component={Home}/>
+                    <Route exact path="/" component={Home}/>
                     <Route path="/Register" component={Register}/>
                     <Route path="/Login" component={Login}/>
                     <Route path="/Startup" component={Startups}/>
