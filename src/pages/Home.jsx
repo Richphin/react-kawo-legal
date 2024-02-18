@@ -11,7 +11,7 @@ function Home() {
                     />
 			        
                     <div className="text-center homemaincontent">
-                        <h1>KAWOLEGAL</h1>
+                        <h1>TRANSLOGISTICS</h1>
                         <h3>A collaborative ecosystem for problem<br/>solvers and support for startups.</h3>
                         <button type="button" className="btn btn-primary registerbtn"><a href="kaworegister.html">Register Now!</a></button>
                     </div>
